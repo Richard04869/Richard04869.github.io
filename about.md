@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student in Inha-University majoring in Mathematics and Statistics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently under national service.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lovekrand_@naver.com](mailto:lovekrand_@naver.com)
