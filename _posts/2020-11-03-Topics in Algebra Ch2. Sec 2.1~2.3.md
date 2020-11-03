@@ -8,7 +8,7 @@ use_math: true
 comments: true
 ---
 You can find the solution for Chapter2, Section 2.1~2.3 Here:
-[get the PDF](/assets/Herstein_Topics_in_Algebra_solution-2.1-2.3.pdf)
+[Ch2. Sec 2.1-2.3.](/assets/Herstein_Topics_in_Algebra_solution-2.1-2.3.pdf)
 
 
 
