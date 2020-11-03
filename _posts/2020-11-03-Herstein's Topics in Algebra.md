@@ -9,3 +9,4 @@ comments: true
 ---
 
 test
+can i use math eqn? $f(x)=2x$
