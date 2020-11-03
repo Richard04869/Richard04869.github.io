@@ -4,7 +4,8 @@ title: Solutions for Herstein's Topics in Algebra
 tags:
   - test
   - Abstract Algebra
-  - tags
+use_math: true
+comments: true
 ---
 
 test
