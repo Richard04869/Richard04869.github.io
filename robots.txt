@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://lovekrand.github.io/sitemap.xml
