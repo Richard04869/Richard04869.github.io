@@ -9,3 +9,5 @@ comments: true
 ---
 You can find the solution for Chapter2, Section 2.7 here:
 [Ch2. Sec 2.7.](/assets/Herstein_Topics_in_Algebra_solution_2.7.pdf)
+
+
