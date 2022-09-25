@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Student in Inha-University majoring in Mathematics and Statistics.
+Student in Inha-University majoring in Mathematics.
 
 ### More Information
 
-Currently under national service.
+Expected to join Graduate program in 2023.
 
 ### Contact me
 
-[lovekrand_@naver.com](mailto:lovekrand_@naver.com)
+[lovekrandleesj1004@gmail.com](mailto:lovekrandleesj1004@gmail.com)
