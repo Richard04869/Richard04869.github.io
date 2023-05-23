@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Student in Inha-University majoring in Mathematics.
+Currently on Ph.D. program in Mathematical Science, KAIST.
+B.S. in Mathematics, Inha University,
 
 ### More Information
 
-Expected to join Graduate program in 2023.
+Interested in Statistics and Applied probability.
 
 ### Contact me
 
-[lovekrandleesj1004@gmail.com](mailto:lovekrandleesj1004@gmail.com)
+[lovekrand at kaist dot ac dot kr](mailto:lovekrand@kaist.ac.kr)
