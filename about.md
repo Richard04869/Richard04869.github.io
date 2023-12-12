@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently on Ph.D. program in Mathematical Science, KAIST.
+Currently on Ph.D. program in Mathematical Science, KAIST. <br>
 B.S. in Mathematics, Inha University,
 
 ### More Information
