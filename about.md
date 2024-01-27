@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently on Undergrad in Mathematic, GT
+Currently on Undergrad in Mathematics, GT
 
 ### More Information
 
