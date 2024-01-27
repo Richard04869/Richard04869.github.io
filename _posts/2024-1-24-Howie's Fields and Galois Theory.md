@@ -7,5 +7,5 @@ tags:
 use_math: true
 comments: true
 ---
-You can find the solution for Chapter1, Section 2.3~2.4 here:
+You can find the solution for Chapter2, Section 2.3~2.4 here:
 [Ch2. Sec 2.3-2.4.](/assets/Math_4108_HW3.pdf)
