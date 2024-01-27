@@ -1,7 +1,5 @@
 # Kiko Now
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md).*
-
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
 **Kiko Now** is a Jekyll theme based on **[Jekyll Now](https://github.com/barryclark/jekyll-now)**, following the philosophy of **Jekyll Now**, which makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
