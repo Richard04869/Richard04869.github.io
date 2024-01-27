@@ -4,10 +4,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Suspicious Math Blog
+name:  Little Math Blog
 
 # Short bio or description (displayed in the header)
-description: Mathematics & Statistics 
+description: Mathematics
 
 #
 # Flags below are optional
@@ -35,24 +35,24 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+  behance: 
   dribbble:
-  email: lovekrand_@naver.com
+  email: richardzhu04869@gmail.com
   facebook:
   flickr:
-  github: lovekrand
+  github: Richardzhu04869
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  twitter: #jekyllrb
-  youtube: # channel/<your_long_string> or user/<user-name>
+  tumblr: # 
+  twitter: #j
+  youtube: # 
 
 # Text under the icons in footer
-footer-text: © 2020 Lovekrand
+footer-text: © 2024 Pengfei
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
